@@ -1,7 +1,5 @@
-
-
 public class Position {
-
+    
     private int line;
     private int index;
 
